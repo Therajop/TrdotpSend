@@ -93,7 +93,7 @@ class Program {
 
 
 
-git clone https://github.com/TrdPro/WifiOTP-Sender.git
+git clone https://github.com/therajop/Trdotpsend.git
 
 2. Import the language file into your project.
 
